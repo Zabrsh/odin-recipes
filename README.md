@@ -1,0 +1,1 @@
+This repository is to show what i learned so far on HTML. The course is part of Odin project learning process.
